@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuuNozawa
 - 👀 I’m interested in Chess, Piano, Traveling, and offcourse Programming.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning React Native and Vim.
 <!---
  💞️ I’m looking to collaborate on ...
  📫 How to reach me ...
