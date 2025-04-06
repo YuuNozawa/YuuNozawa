@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuuNozawa
 - 👀 I’m interested in Chess, Piano, Traveling, and Programming.
-- 🌱 I’m currently learning OAuth2.
+- 🌱 I’m currently learning RoR.
 <!---
  💞️ I’m looking to collaborate on ...
  📫 How to reach me ...
